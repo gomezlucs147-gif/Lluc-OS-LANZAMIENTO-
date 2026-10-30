@@ -1,0 +1,6 @@
+{
+  "name": "llucOS - Sistema Operativo Web Personalizado",
+  "description": "Sistema operativo personalizado estilo Windows con instalador interactivo, llucStore con juegos 3D y aplicaciones funcionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
